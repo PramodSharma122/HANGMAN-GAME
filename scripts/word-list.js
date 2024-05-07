@@ -16,8 +16,21 @@ const wordList = [
         hint:"A art form using colors on a surface to create images or expression."
     },
     {
-    word:"drawing",
-    hint:"A scatche in paper."
+        word:"drawing",
+        hint:"A scatche in paper."
     },
+    {
+        word:"mars",
+        hint:'Which planet is known as the "Red Planet"?'
+    },
+    {
+        word:  "stapes",
+        hint:"What is the smallest bone in the human body?"
+    },
+    {
+        hint:"What is the term for a word or phrase that reads the same backward as forward?",
+        word:"Palindrome"
+    },
+
     
 ];
